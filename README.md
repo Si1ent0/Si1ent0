@@ -24,3 +24,13 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;
+
+</p>
+
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Selene-blue?style=for-the-badge">&nbsp;&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/Pytest-grey?style=for-the-badge">&nbsp;&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/Allure-green?style=for-the-badge">&nbsp;&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/mySQL-black?style=for-the-badge">&nbsp;&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/ELK-red?style=for-the-badge">&nbsp;&nbsp;
+
