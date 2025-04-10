@@ -8,7 +8,7 @@
 
 <h2 align="center"> 👨‍💻 About me </h2>
 <p align="center">
-  <samp>Hello! My name is Ramin Safarov. I have 7+ years of experience in IT industry as a Software Tester. 
+  <samp>Hello! My name is Ramin Safarov. I have 7+ years of experience in IT industry as a QA tester. 
     Used Selenium, Selene, Pytest, Requests, Python, Jenkins, Docker, Allure, REST API, Postman, Appium, Android Studio, Jira, Confluence, TestRail, mySql, PostgreSQL, BrowserStack, ELK, Sentry, Grafana
   </samp>
   <br> <br>
