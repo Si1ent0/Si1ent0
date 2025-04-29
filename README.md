@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height='50'  width='50' />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height='60'  width='60' />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height='50'  width='50' />&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/Selene-blue?style=for-the-badge" height='50'  width='80'>&nbsp;&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/Selene-blue?style=for-the-badge" height='40'  width='80'>&nbsp;&nbsp;
 
 
 
