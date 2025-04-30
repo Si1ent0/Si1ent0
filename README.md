@@ -8,7 +8,7 @@
 
 <h2 align="center"> 👨‍💻 About me </h2>
 <p align="center">
-  <samp>Hello! My name is Ramin Safarov. I have 5+ years of experience in IT industry as a QA engineer.<br>
+  <samp>Hello! My name is Ramin Safarov. I have 6+ years of experience in IT industry as a QA engineer.<br>
     I strive for continuous learning and improvement of my skills to ensure high quality of products
   </samp>
   <br> <br>
